@@ -1,0 +1,48 @@
+9
+(a,a)(a,b)(a,e)(b,b)(b,e)(c,c)(c,d)(d,d)(e,e)
+Reflexive: Yes, all elements are present.
+Symmetric: No, (a,b) is found whereas (b,a) is not found.
+Antisymmetric: Yes, all elements are antisymmetric
+Transitive: Yes, (c,d) is found since (c,d) and (d,d) are found. 
+8
+(a,a)(a,b)(b,a)(b,b)(c,c)(c,d)(d,c)(d,d)
+Reflexive: No,all elements are not present.
+Symmetric: Yes, all elements are Symmetric.
+Antisymmetric: No, (a,b) is found whereas (b,a) is also found.
+Transitive: Yes, (d,d) is found since (d,c) and (c,d) are found. 
+5
+(a,a)(b,b)(c,c)(d,d)(e,e)
+Reflexive: Yes, all elements are present.
+Symmetric: Yes, all elements are Symmetric.
+Antisymmetric: Yes, all elements are antisymmetric
+Transitive: Yes, (a,a) is found since (a,a) and (a,a) are found. 
+3
+(1,1)(1,2)(2,1)
+Reflexive: No,all elements are not present.
+Symmetric: Yes, all elements are Symmetric.
+Antisymmetric: No, (1,2) is found whereas (2,1) is also found.
+Transitive: No, all elements are not Transitive.
+7
+(1,1)(1,2)(2,1)(2,2)(3,4)(4,1)(4,4)
+Reflexive: No,all elements are not present.
+Symmetric: No, (3,4) is found whereas (4,3) is not found.
+Antisymmetric: No, (1,2) is found whereas (2,1) is also found.
+Transitive: No, all elements are not Transitive.
+6
+(2,1)(3,1)(3,2)(4,1)(4,2)(4,3)
+Reflexive: No,all elements are not present.
+Symmetric: No, (2,1) is found whereas (1,2) is not found.
+Antisymmetric: Yes, all elements are antisymmetric
+Transitive: Yes, (4,2) is found since (4,3) and (3,2) are found. 
+10
+(1,1)(1,2)(1,3)(1,4)(2,2)(2,3)(2,4)(3,3)(3,4)(4,4)
+Reflexive: Yes, all elements are present.
+Symmetric: No, (1,2) is found whereas (2,1) is not found.
+Antisymmetric: Yes, all elements are antisymmetric
+Transitive: Yes, (3,4) is found since (3,4) and (4,4) are found. 
+8
+(1,1)(1,2)(1,4)(2,1)(2,2)(3,3)(4,1)(4,4)
+Reflexive: Yes, all elements are present.
+Symmetric: Yes, all elements are Symmetric.
+Antisymmetric: No, (1,2) is found whereas (2,1) is also found.
+Transitive: No, all elements are not Transitive.
